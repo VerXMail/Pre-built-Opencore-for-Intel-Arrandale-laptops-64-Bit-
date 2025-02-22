@@ -1,5 +1,5 @@
 
-# **Pre-built Opencore with macOS Big Sur installer for Intel Arrandale laptops (64-Bit). **
+# Pre-built Opencore with macOS Big Sur installer for Intel Arrandale laptops (64-Bit).
 
 **Project Description:**
 
@@ -39,7 +39,6 @@ Download the source code .zip and extract the zip file. Now, insert your USB Dri
 
 **Now you are ready to boot macOS from your USB Drive.**
 
-# **Enjoy**
 # **For UEFI Systems**
 
 1. Insert your USB Drive and convert it to GPT (if it isn't already in GPT Partitioning Scheme.).
@@ -48,7 +47,6 @@ Download the source code .zip and extract the zip file. Now, insert your USB Dri
 
 **Now you are ready to boot macOS from your USB Drive.**
 
-# **Enjoy**
 # **Credits**
 
 All credits goes to [Apple](https://www.apple.com/) and [Opencore](https://dortania.github.io/OpenCore-Install-Guide/).
